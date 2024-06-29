@@ -6,7 +6,7 @@ Welcome to my study notes for the Google Cybersecurity Certificate Course. This 
 
 - **Personal Learning**: These notes are a reflection of my personal learning journey through the Google Cybersecurity Certificate Course. They are written in my own words and are based on my understanding of the course materials.
 - **Giving Back**: This is my way of giving back to the community. I hope these notes can help others who are also interested in cybersecurity and are looking for a structured way to learn.
-- **Original Content**: All the content here is my original work. While I've based my notes on the course material, I've ensured to put everything in my own words and have not copied any proprietary content directly from the course.
+- **Original Content**: All the content here is my original work. While I've based my notes on the course material, I've ensured to put everything in my own words.
 
 ## Contents
 
